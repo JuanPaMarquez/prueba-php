@@ -1,0 +1,13 @@
+{
+    "name": "prueba-php/superhero",
+    "description": "A simple PHP superhero class example",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "classmap": [
+            "classes.php"
+        ]
+    }
+}
